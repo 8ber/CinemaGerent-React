@@ -1,0 +1,31 @@
+.MainDiv {
+    padding: 5px;
+    text-align: left;
+}
+
+
+label {
+    font-weight: bold;
+}
+.UserCard {
+    border: 1px dashed black;
+    border-radius: 5px;
+    width: 25%;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.WatchedAndImage {
+    text-align: left;
+    display: flex;
+    font-size: small;
+}
+
+.Cardimg {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 40%;
+    height: auto;
+    border: 1px dashed black;
+    margin: 5px;
+}

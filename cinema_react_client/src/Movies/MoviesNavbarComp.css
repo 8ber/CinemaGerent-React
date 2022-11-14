@@ -1,0 +1,24 @@
+.Pagination {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  border: 0px;
+  padding: 10px 50px 0px 50px;
+}
+
+
+.MovUl {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.MovLi {
+  font-size: 16px;
+  border-left: 1.5px dotted black;
+  border-right: 1.5px dotted black;
+  padding: 0 5px;
+}
+

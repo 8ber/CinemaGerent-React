@@ -1,0 +1,12 @@
+.Mainul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .Mainli {
+    font-size: 16px;
+    border-left: 1.5px dotted black;
+    border-right: 1.5px dotted black;
+    padding: 0 5px;
+  }
